@@ -71,17 +71,13 @@ body{
     top:9rem;
     left: 20rem;
     right:20rem;
-    bottom: 0;
     background-color: white;
 }
 
 .post-temp{
-    position: absolute;
-    top: 2rem;
-    left: 3rem;
-    right: 3rem;
     background-color: #D9D9D9;
     border-radius: 1rem;
+    margin:2rem;
 }
 
 .upload-time{
